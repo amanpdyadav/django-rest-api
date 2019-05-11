@@ -1,0 +1,15 @@
+django==1.8
+requests
+Pillow
+django-contact-form
+django-taggit
+python-memcached
+sorl-thumbnail
+django-facebook==6.0.3
+djangorestframework==3.3.2
+django-autofixture
+django-cron
+bcrypt
+sha256
+pyjwt
+django-cors-headers
