@@ -31,13 +31,13 @@ Once you are done with the installation. Follow the steps below to run the appli
     ```
  2. Clone the repository to your folder.
      ```
-        git clone  http://git.turkunepal.fi:8888/turkunepal/tnawebportal.git
+        git clone  https://github.com/amanpdyadav/django-rest-api.git
     ```
     `NOTE : You can use ssh link if you like inorder to avoid the username and password typing all the time.`
 
- 3. Now you can see an extra folder name tnawebportal. Goto the folder.
+ 3. Now you can see an extra folder name django-rest-api. Goto the folder.
      ```
-        cd tnawebportal
+        cd django-rest-api
      ```
      
  4. Installing virtual environment is optional(If you dont want to messup with your python versions and sites packages in the system.)
@@ -63,9 +63,9 @@ Once you are done with the installation. Follow the steps below to run the appli
 
 Having all the steps above done successfully. Now we are ready to run the application.
 
- 1. Goto tnawebportal folder.
+ 1. Goto django-rest-api folder.
      ```
-        cd ~/github/tnawebportal (CHECK the location in your pc)
+        cd ~/github/django-rest-api (CHECK the location in your pc)
      ```
  2. Activate the virtual environment if you are using it else follow to next step.
      ```
